@@ -4,7 +4,7 @@
 
 Looking for hard-hitting analysis on the growing crisis? Searching for a revolutionary anarchist, anti-fascist, and autonomous anti-capitalist alternative to the far-Right and the neo-liberal center? Looking to learn more about grassroots revolt and social movements across North America? Every week It’s Going Down produces three audio programs:<br>
 
-<a href="https://kpfa.org/program/igd/">IGDshow</a>: Features interviews and discussions produced for  KPFA 94.1FM – Berkeley which airs Fridays, 12pm-1pm PT across Northern and Central California.<br>
+<a href="https://kpfa.org/program/igd/">IGDshow</a>: Features interviews and discussions produced for <a href="https://www.kpfa.org">KPFA 94.1FM</a> – Berkeley which airs Fridays, 12pm-1pm PT across Northern and Central California.<br>
 
 <a href="https://www.podbean.com/site/Search/index?v=It%27s+Going+Down">This Is America</a>: Audio analysis and roundup of resistance and headline news, all from an anarchist perspective<br>
 
