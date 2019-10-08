@@ -15,15 +15,11 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "#30001"
-msgid "IDG 1"
+msgid "It's Going Down"
 msgstr ""
 
 msgctxt "#30002"
-msgid "IDG 2"
-msgstr ""
-
-msgctxt "#30003"
-msgid "3"
+msgid "IDGCast"
 msgstr ""
 
 # empty string with id 32003
