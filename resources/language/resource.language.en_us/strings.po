@@ -19,7 +19,7 @@ msgid "It's Going Down"
 msgstr ""
 
 msgctxt "#30002"
-msgid "IDGCast"
+msgid "IGDCast"
 msgstr ""
 
 # empty string with id 32003
